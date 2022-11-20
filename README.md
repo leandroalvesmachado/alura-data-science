@@ -8,3 +8,10 @@
   * [3. Lista, repetições e tipo booleano](#)
   * [4. O sistema de imports](#)
   * [5. Plotando com Matplotlib](#)
+
+- [Python para Data Science: linguagem e Numpy - 12h - Atualizado Em 03/11/2022](#)
+  * [1. Ambiente do cientista de dados](#)
+  * [2. Características do Python](#)
+  * [3. Trabalhando com listas](#)
+  * [4. Condicionais e laços](#)
+  * [5. Conhecendo o NumPy](#)
