@@ -29,6 +29,12 @@
 * [List comprehensions](#)
 
 ## Aula 05 - Conhecendo o NumPy
-* [](#)
-* [](#)
-* [](#)
+* [A importação de pacotes em Python](#)
+* [Técnicas para criação de arrays Numpy](#)
+* [Arrays de mais de uma dimensão](#)
+* [Comparações de desempenho entre arrays Numpy e listas do Python](#)
+* [Operações aritméticas com arrays Numpy](#)
+* [Seleções de itens e fatiamentos em arrays](#)
+* [Indexação com arrays booleanos](#)
+* [Atributos e métodos de arrays no pacote Numpy](#)
+* [A geração de estatísticas descritivas e sumarizações com arrays](#)

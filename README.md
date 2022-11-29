@@ -15,3 +15,10 @@
   * [3. Trabalhando com listas](#)
   * [4. Condicionais e laços](#)
   * [5. Conhecendo o NumPy](#)
+
+- [Python para Data Science: Funções, Pacotes e Pandas - 10h - Atualizado Em 04/10/2022](#)
+  * [1. Apresentação do curso](#)
+  * [2. Listas estáticas: Tuplas](#)
+  * [3. Mapeando dados: Dicionários](#)
+  * [4. Organização do código: Funções e pacotes](#)
+  * [5. A biblioteca dos cientistas: Pandas](#)
