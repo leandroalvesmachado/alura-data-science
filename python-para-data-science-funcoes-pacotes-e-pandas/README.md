@@ -22,6 +22,12 @@
 * [Técnicas de iteração por dicionários](#)
 
 ## Aula 04 - Organização do código: Funções e pacotes
+* [A utilizar built-in functions no Python](#)
+* [A consultar a documentação do Python](#)
+* [Como definir funções com e sem o uso de argumentos](#)
+* [Como definir funções que retornam valores](#)
+
+## Aula 05 - A biblioteca dos cientistas: Pandas
 * [](#)
 * [](#)
 * [](#)
