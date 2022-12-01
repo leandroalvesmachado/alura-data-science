@@ -1,6 +1,6 @@
 # Alura - Data Science
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/leandroalvesmachado/alura-programacao-php?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/leandroalvesmachado/alura-data-science?style=for-the-badge)
 
 - [Python para Data Science - 10h - Atualizado Em 28/06/2022](#)
   * [1. Função e linguagem de alto nível](#)
