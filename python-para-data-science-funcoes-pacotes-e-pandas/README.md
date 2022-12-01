@@ -28,8 +28,12 @@
 * [Como definir funções que retornam valores](#)
 
 ## Aula 05 - A biblioteca dos cientistas: Pandas
-* [](#)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
+* [Series e DataFrame, as estruturas de dados básicas da biblioteca pandas](#)
+* [O método de criação de Series e DataFrames](#)
+* [A criar DataFrames a partir de dados externos](#)
+* [Como fazer seleções e fatiamentos em um DataFrame](#)
+* [Os métodos de seleção .loc e .iloc](#)
+* [A fazer consultas em um DataFrame com o método .query() e com matrizes booleanas](#)
+* [A forma básica de iteração por um DataFrame](#)
+* [O básico sobre tratamento de dados faltantes em um DataFrame (isna(), fillna() e dropna())](#)
+
