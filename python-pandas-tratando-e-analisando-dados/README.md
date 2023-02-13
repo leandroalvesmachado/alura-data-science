@@ -23,3 +23,24 @@
     * [Criar diferentes tipos de células dentro do Jupyter](#)
     * [Acessar a documentação](#)
     * [Como reexecutar todas as células](#)
+
+## Aula 03 - Series e Index
+* [Como selecionar uma variável do dataframe (por exemplo, dados['Tipo'] ou dados.Tipo)](#)
+* [Que um dataframe é composto de vários Series](#)
+* [Como eliminar duplicatas (pelo método drop_duplicates())](#)
+* [Como redefinir o index de um dataframe e series (atributo index)](#)
+* [Como concatenar dataframes (lembrando do axis)](#)
+* [Como criar novos dataframes baseados em estruturas de dados Python (lista, dicionários ou tuples)](#)
+
+## Aula 04 - Filtrando dados
+* [Criar uma Series booleana usando o método isin(..) a partir do dataframe](#)
+* [Filtrar os dados de um dataframe baseado na Series booleana](#)
+* [Exportar e gravar os dados do dataframe (método to_csv())](#)
+* [Ordenar os dados de um dataframe (métodos sort_values() e sort_index())](#)
+
+## Aula 05 - Filtrando dados
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
