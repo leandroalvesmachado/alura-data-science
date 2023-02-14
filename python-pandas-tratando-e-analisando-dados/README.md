@@ -39,6 +39,40 @@
 * [Ordenar os dados de um dataframe (métodos sort_values() e sort_index())](#)
 
 ## Aula 05 - Filtrando dados
+* [Formas de seleção e frequências](#)
+    * [Seleção com a condição OR (|)](#)
+    * [Seleção com a condição AND (&)](#)
+* [Como criar um Index com split()](#)
+* [Seleção por linha e coluna em um dataframe:](#)
+    * [Utilizando os índices numéricos e os rótulos das linhas](#)
+
+## Aula 06 - Tratando de dados faltantes
+* [Tratamento de dados faltantes](#)
+* [Como identificar valores nulos (missing values)](#)
+    * [O método isnull() indica se os valores são nulos](#)
+    * [O método notnull() retorna o contrário do método isnull()](#)
+    * [O método info() também é uma forma de se verificar a presença de valores faltantes](#)
+* [Como remover valores nulos com o método dropna()](#)
+* [Tratamento condicional](#)
+* [Inversão de valores booleanos com ~](#)
+* [Como substituir os missing values com o método fillna()](#)
+* [Métodos de interpolação: ffill, bfill e mean()](#)
+
+## Aula 07 - Novas variáveis
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+
+## Aula 08 - Filtrando dados
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+
+## Aula 09 - Filtrando dados
 * [](#)
 * [](#)
 * [](#)
