@@ -59,11 +59,9 @@
 * [Métodos de interpolação: ffill, bfill e mean()](#)
 
 ## Aula 07 - Novas variáveis
-* [](#)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
+* [Como criar variáveis](#)
+* [Como excluir variáveis utilizando del, pop() e drop()](#)
+* [Contadores, através do value_counts()](#)
 
 ## Aula 08 - Filtrando dados
 * [](#)
