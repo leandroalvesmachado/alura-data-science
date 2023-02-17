@@ -63,12 +63,12 @@
 * [Como excluir variáveis utilizando del, pop() e drop()](#)
 * [Contadores, através do value_counts()](#)
 
-## Aula 08 - Filtrando dados
-* [](#)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
+## Aula 08 - Estatísticas descritivas
+* [Como criar agrupamentos com o groupby()](#)
+* [Estatísticas descritivas com o describe() e o aggregate()](#)
+* [Como renomear as colunas com o rename()](#)
+* [Como fazer gráficos com o pacote Matplotlib](#)
+* [Como criar faixas de valor com o cut()](#)
 
 ## Aula 09 - Filtrando dados
 * [](#)
