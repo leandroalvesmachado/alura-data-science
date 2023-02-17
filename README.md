@@ -33,3 +33,10 @@
   * [7. Novas variáveis](#)
   * [8. Estatísticas descritivas](#)
   * [9. Removendo Outliers](#)
+
+- [Data Visualization: explorando com Seaborn - 6h - Atualizado Em 09/05/2022](#)
+  * [1. Importando e traduzindo os dados](#)
+  * [2. Comparando distribuições de maneira exploratória](#)
+  * [3. Analisando de forma visual e descritiva](#)
+  * [4. Comparando e explorando os dias da semana](#)
+  * [5. Distribuição de frequência e teste de hipótese](#)
