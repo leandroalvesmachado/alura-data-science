@@ -1,6 +1,7 @@
 # Alura - Data Science
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/leandroalvesmachado/alura-data-science?style=for-the-badge)
+![pip list --format=freeze > requirements.txt](#)
 
 - [Python para Data Science - 10h - Atualizado Em 28/06/2022](#)
   * [1. Função e linguagem de alto nível](#)
@@ -33,3 +34,11 @@
   * [7. Novas variáveis](#)
   * [8. Estatísticas descritivas](#)
   * [9. Removendo Outliers](#)
+
+- [Data Science: analise e visualização de dados - 6h - Atualizado Em 07/10/2022](#)
+  * [1. Data Science: dados e visualizações](#)
+  * [2. Análise exploratória](#)
+  * [3. Variáveis](#)
+  * [4. Data visualization](#)
+  * [5. Continuando com visualização](#)
+  * [6. Dados e Estatística](#)
