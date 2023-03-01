@@ -35,6 +35,14 @@
   * [8. Estatísticas descritivas](#)
   * [9. Removendo Outliers](#)
 
+- [Python Pandas: técnicas avançadas - 12h - Atualizado Em 17/01/2023](#)
+  * [1. Começando o trabalho](#)
+  * [2. Transformando e tratando os dados](#)
+  * [3. Combinando conjuntos de dados](#)
+  * [4. Adicionando informações](#)
+  * [5. Tabulações e sumarizações](#)
+  * [6. Tabulações e estilização](#)
+
 - [Data Science: analise e visualização de dados - 6h - Atualizado Em 07/10/2022](#)
   * [1. Data Science: dados e visualizações](#)
   * [2. Análise exploratória](#)
